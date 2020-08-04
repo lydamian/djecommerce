@@ -1,4 +1,4 @@
-#!"c:\users\damian ly\desktop\programmingprojects\django_ecommerce\django_project_boilerplate\venv\scripts\python.exe"
+#!"c:\users\damian\desktop\programming files\django_ecommerce\djecommerce\venv\scripts\python.exe"
 # EASY-INSTALL-ENTRY-SCRIPT: 'autopep8==1.4.4','console_scripts','autopep8'
 __requires__ = 'autopep8==1.4.4'
 import re

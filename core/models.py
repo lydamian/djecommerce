@@ -1,6 +1,6 @@
 from django.conf import settings
 from django.db import models
-from django.shortcuts import reverse,
+from django.shortcuts import reverse
 
 
 CATEGORY_CHOICES = (
@@ -54,4 +54,4 @@ class Order(models.Model):
 
 
 def add_to_cart(request, slug):
-    item =
+    pass
